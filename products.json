@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Black Gown",
+        "price": 999.00,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name": "One Piece",
+        "price": 999.00,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Red Tape Sneakers",
+        "price": 799.00,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name": "Men Tracks",
+        "price": 799.00,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Morocco Gown",
+        "price": 999.00,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Black One Piece",
+        "price": 999.00,
+        "image": "image/6.png"
+    },
+    {
+        "id": 6,
+        "name": "Brown Shirt",
+        "price": 999.00,
+        "image": "image/7.png"
+    },
+    {
+        "id": 6,
+        "name": "Black Shirt",
+        "price": 999.00,
+        "image": "image/8.png"
+    }
+]
